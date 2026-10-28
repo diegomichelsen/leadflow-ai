@@ -1,0 +1,11 @@
+services:
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: leadflow-api
+    ports:
+      - "8001:8000"     # Porta 8001 no seu PC: permite rodar todos os projetos ao mesmo tempo
+    env_file:
+      - .env
+    restart: unless-stopped
