@@ -1,5 +1,9 @@
 # LeadFlow AI
 
+[![Testes](https://github.com/diegomichelsen/leadflow-ai/actions/workflows/tests.yml/badge.svg)](https://github.com/diegomichelsen/leadflow-ai/actions/workflows/tests.yml)
+![Status](https://img.shields.io/badge/status-planejado-lightgrey)
+
+
 > Plataforma de automação do ciclo de captação, qualificação e encaminhamento de leads.
 
 **Status:** Planejamento  
